@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "@types/fast-html-parser": "^1.0.0",
+    "@types/node": "^13.11.1",
+    "fast-html-parser": "^1.0.1"
+  }
+}
