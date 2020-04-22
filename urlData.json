@@ -1,0 +1,30 @@
+{
+  "url": {
+    "todo": [],
+    "done": [
+      {
+        "url": "https://gundam.fandom.com/wiki/MA-04X_Zakrello",
+        "folder": "MA-04X_Zakrello"
+      },
+      {
+        "url": "https://gundam.fandom.com/wiki/MS-14A_Gelgoog",
+        "folder": "MS-14A_Gelgoog"
+      },
+      {
+        "url": "https://gundam.fandom.com/wiki/MS-05B_Zaku_I",
+        "folder": "MS-05B_Zaku_I"
+      },
+      {
+        "url": "https://gundam.fandom.com/wiki/ASW-G-08_Gundam_Barbatos",
+        "folder": "ASW-G-08_Gundam_Barbatos"
+      },
+      {
+        "url": "https://gundam.fandom.com/wiki/RX-78-2_Gundam",
+        "folder": "RX-78-2_Gundam"
+      }
+    ],
+    "error": [
+      { "url": "ferfgerfer", "comment": "connect ECONNREFUSED 127.0.0.1:80" }
+    ]
+  }
+}
